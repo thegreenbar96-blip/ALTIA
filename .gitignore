@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+build/
+dist/
+dist_installer/
+*.spec.bak
+.idea/
+.vscode/
+*.log
+AppData/
+.cursor/
